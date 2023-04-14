@@ -1,0 +1,4 @@
+1 john john@gmail.com 056534978
+1 mike mike@gmail.com 074610928
+1 sarah sarah@gmail.com 98462108
+0 naz naz@nyu 1234382
